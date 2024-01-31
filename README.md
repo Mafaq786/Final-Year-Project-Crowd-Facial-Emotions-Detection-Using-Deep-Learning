@@ -1,0 +1,2 @@
+# Final-Year-Project-Crowd-Emotions-Detection-Using-Deep-Learning
+This repository contains the source code and resources for a crowd emotions detection project leveraging Deep Learning techniques. The project aims to develop an efficient and accurate system capable of detecting and analyzing emotions from crowds in images. The system is designed to handle various scenarios,including crowded events etc.
