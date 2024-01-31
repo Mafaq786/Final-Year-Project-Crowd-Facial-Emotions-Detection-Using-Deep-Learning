@@ -1,5 +1,5 @@
-# Final-Year-Project-Crowd-Emotions-Detection-Using-Deep-Learning
-This repository contains the source code and resources for a crowd emotions detection project leveraging Deep Learning techniques. The project aims to develop an efficient and accurate system capable of detecting and analyzing emotions from crowds in images. The system is designed to handle various scenarios,including crowded events, public spaces, and surveillance applications. The project focuses on recognizing emotions such as anger, disgust, fear, happiness, sadness, surprise, and neutrality from facial expressions in images.
+# Final-Year-Project-Crowd-Facial-Emotions-Detection-Using-Deep-Learning
+This repository contains the source code and resources for a crowd facial emotions detection project leveraging Deep Learning techniques. The project aims to develop an efficient and accurate system capable of detecting and analyzing emotions from crowds in images. The system is designed to handle various scenarios,including crowded events, public spaces, and surveillance applications. The project focuses on recognizing emotions such as anger, disgust, fear, happiness, sadness, surprise, and neutrality from facial expressions in images.
 
 # Key Features:
 Utilizes the FER2013 dataset for training and testing the CNN model.
